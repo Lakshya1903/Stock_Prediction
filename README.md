@@ -12,6 +12,6 @@ We utilized the `Random Forest Regressor` algorithm for the prediction model. To
 
 ### screenshot of the working:
 
-![image](https://drive.google.com/file/d/1PeIxFt5H83BEQHzzuAueR5URFbaiw-mn/view?usp=sharing)
+![image](https://drive.google.com/thumbnail?id=1PeIxFt5H83BEQHzzuAueR5URFbaiw-mn)
 
 ### make sure to have properly installed gradio for it to work
