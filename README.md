@@ -10,9 +10,10 @@ We utilized the `Random Forest Regressor` algorithm for the prediction model. To
 
  Users can input a specific date and get a prediction of the stock value for that day.
 
-### screenshot of the working:
+### Screenshot of the working:
 
-<img src="https://drive.google.com/thumbnail?id=1PeIxFt5H83BEQHzzuAueR5URFbaiw-mn" alt="Screenshot of the working" style="width:800px; height:auto;">
+<img src="https://drive.google.com/uc?id=1PeIxFt5H83BEQHzzuAueR5URFbaiw-mn" alt="Screenshot of the working" style="width:800px; height:auto;">
 
-### make sure to have properly installed gradio for it to work
+### Make sure to have properly installed Gradio for it to work.
+
 
